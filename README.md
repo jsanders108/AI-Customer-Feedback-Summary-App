@@ -1,6 +1,6 @@
 # AI Customer Feedback Summary App
 
-This app is written in Python and integrates OpenAI and Langchain to summarize text documents. The user interface is generated using Streamlit. The specific objective of this app is to allow a user to upload a text document containing customer feedback on a product (in the form of numerous separate comments), which is then summarized by AI (OpenAI via LangChain). 
+This app is written in Python and integrates OpenAI and Langchain to summarize text documents. The user interface is generated with Streamlit. The specific objective of this app is to allow a user to upload a text document containing customer feedback on a product (in the form of numerous separate comments), which is then summarized by AI (OpenAI via LangChain). 
 
 ## Description
 
