@@ -18,9 +18,14 @@ This app has not been deployed to the Internet. It is possible to run the code l
 OPENAI_API_KEY = "xxxxxx"
 
 Further, to run this code, you will need to pip install the following into your Python environment:
+
 -openai
+
 -langchain
+
 -python-dotenv
+
 -streamlit
+
 
 
