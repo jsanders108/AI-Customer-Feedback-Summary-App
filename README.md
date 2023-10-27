@@ -1,6 +1,6 @@
 # AI Customer Feedback Summary App
 
-This React app allows a user to generate a smart contract wallet using account abstraction--and then use it to send and/or receive MATIC. Smart contract wallet accounts provide advantages over traditional externally owned wallet accounts (EOA). For example, they are more secure and programmable, which gives users greater control over their assets. 
+This app is written in Python and integrates OpenAI and Langchain to summarize text documents. The user interface is generated using Streamlit. The specific objective of this app is to allow a user to upload a text document containing customer feedback on a product (in the form of numerous separate comments), which is then summarized by AI (OpenAI via LangChain). 
 
 ## Description
 
