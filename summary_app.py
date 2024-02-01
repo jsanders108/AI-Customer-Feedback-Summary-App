@@ -12,7 +12,7 @@ load_dotenv(find_dotenv(), override=True)
 #importing streamlit
 import streamlit as st
 
-#Reading the text of the emails into the "text" variable
+#Reading the text of the document into the "text" variable
 def load_document(file):
     with open(file, encoding='utf-8') as f:
         text = f.read()
